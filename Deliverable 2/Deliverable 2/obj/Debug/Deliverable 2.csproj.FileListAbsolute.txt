@@ -1,0 +1,14 @@
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\MainWindow.g.cs
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\App.g.cs
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2_MarkupCompile.cache
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2_MarkupCompile.lref
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.exe.config
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.exe
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.pdb
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\MainWindow.baml
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.g.resources
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable_2.Properties.Resources.resources
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.csproj.GenerateResource.Cache
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.csproj.CoreCompileInputs.cache
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.exe
+c:\users\simkk\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.pdb
